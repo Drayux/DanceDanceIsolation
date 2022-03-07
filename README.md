@@ -1,4 +1,4 @@
-### DANCE DANCE ISOLATION: Modular keybind mapping script for Alien: Isolation (and other games)
+### DANCE DANCE ISOLATION: Modular keybind remapping for Alien: Isolation (and other games)
 
 ## ABOUT
 
@@ -8,10 +8,11 @@ Originally built for use within challenge runs of Alien: Isolation, this autohot
 ## REQUIREMENTS
 
 This project requires that a release of ![AutoHotKey](https://github.com/Lexikos/AutoHotkey_L) be installed on the user's computer.
+<br>
 
 ## USAGE/BINDING
 
-< TODO >
+< TODO >  
 (I wrote this script long before I added it to my Github, so I have since forgotten its usage myself. I plan on updaing this section once I modify the script to the desired state of completion.)
 If you wish to use this script before that happens, feel free to contact me. I am best reached through discord: `Drayux#7395`  
 <br>
