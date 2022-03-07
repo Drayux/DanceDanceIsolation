@@ -7,7 +7,7 @@ Originally built for use within challenge runs of Alien: Isolation, this autohot
 
 ## REQUIREMENTS
 
-This project requires that a release of ![AutoHotKey](https://github.com/AutoHotkey/AutoHotkey) be installed on the user's computer.
+This project requires that a release of ![AutoHotKey](https://github.com/Lexikos/AutoHotkey_L) be installed on the user's computer.
 
 ## USAGE/BINDING
 
