@@ -19,5 +19,5 @@ If you wish to use this script before that happens, feel free to contact me. I a
 ## FUTURE
 
 Eventually, I wish to build a complete configuration GUI for this project, as well as add a number of other features, such as game profiles, and priority layering, for additional keybind customizability (and therefore versatility) when the project calls for it. Additionally, I wish to expand this project to support analogue controllers, such as steering wheels or flight controllers.
-Be sure to check out my ~[Twitch](https://twitch.tv/drayux) to catch my challenge runs of various games played with dance pads!  
+Be sure to check out my ![Twitch](https://twitch.tv/drayux) to catch my challenge runs of various games played with dance pads!  
 <br>
