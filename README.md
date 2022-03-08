@@ -19,6 +19,15 @@ If you wish to use this script before that happens, feel free to contact me. I a
 
 ## FUTURE
 
-Eventually, I wish to build a complete configuration GUI for this project, as well as add a number of other features, such as game profiles, and priority layering, for additional keybind customizability (and therefore versatility) when the project calls for it. Additionally, I wish to expand this project to support analogue controllers, such as steering wheels or flight controllers.
+Eventually, I wish to build a complete configuration GUI for this project, as well as add a number of other features, such as game profiles and priority layering, for additional keybind customization (and therefore versatility) when the project calls for it. Additionally, I wish to expand this project to support analogue controllers, such as steering wheels or flight controllers.  
 Be sure to check out my ![Twitch](https://twitch.tv/drayux) to catch my challenge runs of various games played with dance pads!  
+<br>
+
+## LINKEDIN DESCRIPTION
+
+A modular keybind remapping script for unorthodox game controllers. This was built to compliment one of my live streams closely following my appearance at GDQ. The goal was to take one step beyond the standard scope of the standard Alien: Isolation speedrun, and attempt to play the entirety of the game exclusively with my feet.  
+  
+This idea was so unique, however, that no such project existed to support the unique degree of functionality that I needed. As such, I opted to use the functionality provided by AutoHotKey to accomplish this. The script provides functionality that reduces each keybind to a single line of code. Further, in light of making 3D games viable for play with a dance pad, this script also supports―what I've coined as―"double binds." When a specified combination of two buttons is pressed, a double bind will map this combination to a unique third button press, in place of the original two if each button is pressed separately.  
+  
+Eventually, I wish to build a complete configuration GUI for this project, as well as add a number of other features, such as game profiles and priority layering, for additional keybind customization. Additionally, I wish to expand this project to support analogue controllers, such as steering wheels or flight controllers.  
 <br>
